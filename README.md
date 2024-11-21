@@ -8,3 +8,6 @@ Frameworks :- Flask.
 
 
 Ai Config :- Gemini API[gemini-1.5-flash].
+
+
+Live Deployment link : https://image-description-ai-six.vercel.app/
